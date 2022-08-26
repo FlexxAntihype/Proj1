@@ -180,20 +180,20 @@ color: rgba(255, 166, 0, 0.774);
     
     
     .left-block{
-        width: 250px;
-        height: 700px;
+        width: 180px;
+        height: 554px;
         background-color: rgba(0, 0, 0, 0.678);
         margin: 30px;
-        margin-left: 77px;
+        margin-left: 66px;
     }
     
     .img-left-block{
-    width: 250px;
+    width: 180px;
     border: 1px solid orangered;
     }
     .txt-left-block{
         height: 50px;
-        margin: 30px;
+        margin: 5px;
         display: flex;
     flex-direction: column;
     
@@ -214,25 +214,26 @@ color: rgba(255, 166, 0, 0.774);
         text-decoration:none;
     }
     .left-button{
-        width: 250px;
+        width: 180px;
         background-color: orangered;
-        height: 109px;
+        height: 91px;
         border: none;
-        margin-top: 20px;
+        margin-top: 63px;
         color: white;
         font-size: 20px;
     }
     .btn-left{
         color: white;
         margin-right: 74px;
+        width: 121px;
     }
     .btn-left:hover{
         color: rgba(255, 166, 0, 0.774);
     }
     .navbar{
-        width: 1026px;
-        height: 80px;
-        margin:30px;
+        width: 1000px;
+        height: 56px;
+        margin:8px;
         border-bottom: 1px solid black;
         display: flex;
     }
@@ -246,7 +247,7 @@ color: rgba(255, 166, 0, 0.774);
     color: rgba(255, 166, 0, 0.774);
     }
     .btn-navbar3{
-        margin-left: 300px;
+        margin-left: 150px;
     }
     .btn-navbar1{
         color: red;
@@ -261,19 +262,20 @@ color: rgba(255, 166, 0, 0.774);
     }
     .btn-navbar-right{
         border: 2px solid rgba(255, 166, 0, 0.774);
-        margin-left: 118px;
-        width: 150px;
+        margin-left: 255px;
+        width: 136px;
         height: 30px;
+        margin-top: 9px;
     }
     .btn-navbar2{
         width: 150px;
     }
     .more-block{
         position: absolute;
-        width: 1028px;
+        width: 1000px;
         height: 513px;
-        margin: 110px;
-        margin-left: 386px;
+        margin: 63px;
+        margin-left: 282px;
     }
     .form-block{
         border-top: 0.5px solid black;
@@ -291,10 +293,11 @@ color: rgba(255, 166, 0, 0.774);
     
     }
     .name-input{
-        width: 150px;
+        width: 193px;
         margin: 10px;
         text-align: left;
         color: white;
+        overflow: auto;
     
     }
     .name-input:hover{
@@ -312,7 +315,7 @@ color: rgba(255, 166, 0, 0.774);
         color: white;
     }
     .last-block{
-        margin-top: 80px;
+        margin-top: 10px;
     }
     .page-link{
         background-color: rgba(0, 0, 0, 0.774);
