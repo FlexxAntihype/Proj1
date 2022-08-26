@@ -56,6 +56,9 @@ flex-direction: column;
     color: white;
     font-size: 20px;
 }
+.left-button:hover{
+    background-color: rgba(255, 102, 0, 0.842);
+}
 .btn-left{
     color: white;
     margin-right: 74px;
@@ -221,6 +224,12 @@ color: rgba(255, 166, 0, 0.774);
         margin-top: 63px;
         color: white;
         font-size: 20px;
+    }
+    .left-button:hover{
+        background-color: rgba(255, 102, 0, 0.842);
+    }
+    .left-block:hover{
+        background-color: orange;
     }
     .btn-left{
         color: white;
